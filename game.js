@@ -2,6 +2,8 @@ var number = 0;
 var update_rate = 50;
 var lastTick = Date.now();
 
+alert("DISCLAIMER: This is the first prototy of this, there is literally nothing except a button and a number lol");
+
 function count(){
     number++;    
 }
