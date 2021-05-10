@@ -4,3 +4,12 @@ Number range: we're pretty much gonna go through everything from 1 to the thousa
 
 There are gonna be achievements, wich you get by reaching certain numbers.
 These achievements are all gonna have rewards.
+
+Actual game mechanics:
+
+You're gonna have A number in the top center of the screen, with a buitton below it wich says "count".
+This button is gonna increase your number by 1 (can be more later on with more upgrades).
+
+Autocounters: These are things that will automatically count for you, each one will be +1/s(upgradeable later on), and will increase in cost(10 * formula: 1.1^owned_autocounters).
+
+Multipliers: These things cost autocounters, but will increase their efficiency by *2 (multiplicative), and their cost will increase.(formula:10 * 3^owned_multipliers).
